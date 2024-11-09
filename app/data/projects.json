@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "id": 7,
+      "title": "Rijksmuseum",
+      "description": "Desarrollo de un sistema para explorar obras de arte del Rijksmuseum, con funcionalidades de búsqueda avanzada por título y autor, y una opción para guardar obras como favoritas. Este proyecto permite a los usuarios acceder fácilmente a una gran colección de arte, facilitando la exploración y la apreciación del arte en línea.",
+      "video": "/videos/rijksmuseum.mp4",
+      "tags": ["NextJS", "TypeScript", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión"],
+      "slug": "https://rijksmuseum-jet.vercel.app/",
+      "githubUrl": "https://github.com/CesarTriana969/rijksmuseum"
+    },
+    {
+      "id": 6,
+      "title": "EZTIKET",
+      "description": "Desarrollo de un sistema de gestión y sitio web responsive para EZTIKET, una plataforma de venta de boletería y gestión de eventos en línea. Los organizadores pueden publicar y administrar sus eventos, mientras que los usuarios pueden adquirir boletas en línea. El sistema incluye gestión de eventos, historial de ventas y validación de tickets mediante QR, lo que facilita el control de acceso a los eventos y ofrece una experiencia de usuario moderna y segura.",
+      "video": "/videos/eztiket.mp4",
+      "tags": ["Laravel", "Vue", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión", "Plataformas de Eventos", "Venta de Boletos en Línea"],
+      "slug": "https://eztiket.ingesoftllc.com/",
+      "githubUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "MIA'S FLORIST",
+      "description": "Desarrollo de un sistema de e-commerce para MIA'S FLORIST, una tienda de flores. La plataforma permite la gestión de productos, órdenes, zonas de alcance y anuncios, facilitando la administración de inventario, la personalización de productos y la atención al cliente, proporcionando una plataforma eficiente y fácil de usar para el comercio de flores.",
+      "video": "/videos/mias-florist-desktop.mp4",
+      "tags": ["Laravel", "Vue 3", "Tailwind"],
+      "category": ["Desarrollo Web", "E-commerce", "Gestión de Inventario"],
+      "slug": "https://test.miasflorist.com/",
+      "githubUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "N&G LANDSCAPING LLC",
+      "description": "Desarrollo de un sistema de gestión y sitio web responsive para N&G Landscaping LLC, una empresa de paisajismo. El sistema permite administrar cotizaciones, leads y contenido del sitio web, mejorando la eficiencia operativa y facilitando la comunicación con clientes para responder rápidamente a sus necesidades.",
+      "video": "/videos/n&g-desktop.mp4",
+      "tags": ["Laravel", "Vue", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión"],
+      "slug": "https://www.nglandscapingllc.com/",
+      "githubUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "SMART SOLUTION",
+      "description": "Desarrollo de un sistema de gestión y sitio web responsive para SMART SOLUTION, una empresa de servicios financieros. La plataforma permite la administración eficiente del sitio, incluyendo la sincronización automática de calendarios para citas, optimizando la gestión de citas y operaciones diarias, lo que resulta en una experiencia fluida tanto para el equipo como para los clientes.",
+      "video": "/videos/smart-desktop.mp4",
+      "tags": ["Laravel", "Vue", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión", "Automatización Empresarial", "Servicios Financieros"],
+      "slug": "https://smartsolutiontax.com/",
+      "githubUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Wonder Growth",
+      "description": "Desarrollo de un sistema de gestión y sitio web responsive para Wonder Growth, una empresa de servicios financieros. Este sistema permite la administración de citas mediante sincronización automática de calendarios, facilita el control operativo y los servicios ofrecidos, permitiendo una comunicación más efectiva con los clientes y una gestión optimizada del tiempo.",
+      "video": "/videos/wonder-desktop.mp4",
+      "tags": ["Laravel", "Vue", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión", "Automatización Empresarial", "Servicios Financieros"],
+      "slug": "https://wondergrowthus.com/",
+      "githubUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "WISE ATP",
+      "description": "Desarrollo de un sistema de gestión y sitio web responsive para Wise ATP, una empresa de servicios financieros. El sistema está diseñado para optimizar la gestión de citas, sincronizar calendarios y mejorar la operatividad general de la empresa, brindando una solución integral que permite ofrecer servicios financieros de manera más organizada y eficiente.",
+      "video": "/videos/wise-desktop.mp4",
+      "tags": ["Laravel", "Vue", "Tailwind"],
+      "category": ["Desarrollo Web", "Sistemas de Gestión", "Automatización Empresarial", "Servicios Financieros"],
+      "slug": "https://wiseatp.com/",
+      "githubUrl": ""
+    }
+  ]
+}

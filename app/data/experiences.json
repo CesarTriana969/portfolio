@@ -1,0 +1,22 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "company": "INGENUITY & SOLUTIONS SAS",
+      "position": "Front End Developer",
+      "period": "2023/05/01 - Present",
+      "description": "Desarrollo y optimización de aplicaciones web y móviles utilizando tecnologías como Laravel, Vue.js y React Native. Mi responsabilidad incluye implementar y mejorar interfaces de usuario, garantizando que los proyectos sean escalables, rápidos y responsivos. Además de transformar diseños en experiencias funcionales, trabajo en la integración eficiente con APIs y servicios backend. Constantemente colaboro con equipos multidisciplinarios para asegurar que cada solución tecnológica esté alineada con las necesidades del cliente y las mejores prácticas de desarrollo.",
+      "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
+      "achievements": []
+    },
+    {
+      "id": 2,
+      "company": "FREELANCE",
+      "position": "Full-stack Developer",
+      "period": "2021/11/01 - 2023/05/01",
+      "description": "Desarrollo y optimización de soluciones web y APIs. Creación de interfaces intuitivas y escalables, asegurando una integración eficiente entre el frontend y el backend. Implementación de pruebas unitarias y documentación con Swagger, garantizando la calidad del código y una alineación sólida con los objetivos de cada proyecto.",
+      "technologies": ["Node.js", "Express.js", "Sequelize.js", "Swagger", "Jest", "Vue.js", "Tailwind", "MySQL"],
+      "achievements": []
+    }
+  ]
+}

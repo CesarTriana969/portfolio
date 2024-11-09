@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desarrollo Web"
+    },
+    {
+      "id": 2,
+      "name": "Desarrollo Móvil"
+    },
+    {
+      "id": 3,
+      "name": "Sistemas de Gestión"
+    },
+    {
+      "id": 4,
+      "name": "Automatización Empresarial"
+    },
+    {
+      "id": 5,
+      "name": "Servicios Financieros"
+    },
+    {
+      "id": 6,
+      "name": "E-commerce"
+    },
+    {
+      "id": 7,
+      "name": "Gestión de Inventario"
+    },
+    {
+      "id": 8,
+      "name": "Plataformas de Eventos"
+    },
+    {
+      "id": 9,
+      "name": "Venta de Boletos en Línea"
+    }
+  ]
+}
