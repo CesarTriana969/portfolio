@@ -2,19 +2,60 @@
   "experiences": [
     {
       "id": 1,
-      "company": "INGENUITY & SOLUTIONS SAS",
-      "position": "Front End Developer",
-      "period": "01/05/2023 - Present",
-      "description": "Desarrollo y optimización de aplicaciones web y móviles utilizando tecnologías como Laravel, Vue.js y React Native. Mi responsabilidad incluye implementar y mejorar interfaces de usuario, garantizando que los proyectos sean escalables, rápidos y responsivos. Además de transformar diseños en experiencias funcionales, trabajo en la integración eficiente con APIs y servicios backend. Constantemente colaboro con equipos multidisciplinarios para asegurar que cada solución tecnológica esté alineada con las necesidades del cliente y las mejores prácticas de desarrollo.",
-      "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
+      "company": "HI GROUP S.A.S",
+      "position": "Front End & Web Developer",
+      "period": "01/01/2025 - Present",
+      "description": [
+        "Desarrollo y mantengo soluciones web en Shopify utilizando Liquid para personalizar y optimizar tiendas en línea.",
+        "Gestiono elementos del sitio, incluyendo ofertas de cantidad, upsells, duplicación de páginas de producto e integraciones con aplicaciones de Shopify.",
+        "Implemento y optimizo embudos alternativos con Typebot y otras plataformas.",
+        "Colaboro con el equipo de marketing para entregar landing pages y embudos a tiempo, y brindo soporte al área comercial con implementaciones web.",
+        "Realizo análisis de métricas y creo reportes en Excel, Looker Studio y herramientas similares.",
+        "Proporciono soluciones en backend, bases de datos, Docker y PHP dentro del alcance técnico, y ofrezco soporte para flujos de WhatsApp API.",
+        "Garantizo un desarrollo front-end escalable, responsivo y de alto rendimiento, alineado con los objetivos de la empresa."
+      ],
+      "technologies": ["Shopify", "Nuxt", "Tailwind"],
       "achievements": []
     },
     {
       "id": 2,
+      "company": "INGENUITY & SOLUTIONS SAS",
+      "position": "Software Developer (Part-time)",
+      "period": "01/01/2025 - Present",
+      "description": [
+        "Desarrollo y mantengo soluciones tanto de frontend como de backend, abarcando todo el ciclo de vida de las aplicaciones.",
+        "Diseño e implemento APIs, administro bases de datos y mantengo los servidores de la empresa.",
+        "Configuro y gestiono sistemas de envío de correos, pasarelas de pago (como PayPal) y otros servicios backend.",
+        "Optimizo el rendimiento, la seguridad y la escalabilidad de los sistemas en entornos productivos.",
+        "Continúo brindando soporte y mejoras al código frontend existente para garantizar su integración fluida con los servicios backend."
+      ],
+      "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
+      "achievements": []
+    },
+    {
+      "id": 3,
+      "company": "INGENUITY & SOLUTIONS SAS",
+      "position": "Front End Developer",
+      "period": "01/05/2023 - 31/12/2024",
+      "description": [
+        "Desarrollé y optimicé aplicaciones web y móviles utilizando Laravel, Vue.js y React Native.",
+        "Implementé y mejoré interfaces de usuario para garantizar escalabilidad, velocidad y capacidad de respuesta.",
+        "Convertí diseños en experiencias funcionales e implementé integraciones eficientes con APIs y servicios backend.",
+        "Colaboré con equipos multidisciplinarios para alinear las soluciones tecnológicas con las necesidades del cliente y las mejores prácticas de desarrollo."
+      ],
+      "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
+      "achievements": []
+    },
+    {
+      "id": 3,
       "company": "FREELANCE",
       "position": "Full-stack Developer",
       "period": "01/11/2021 - 01/05/2023",
-      "description": "Desarrollo y optimización de soluciones web y APIs. Creación de interfaces intuitivas y escalables, asegurando una integración eficiente entre el frontend y el backend. Implementación de pruebas unitarias y documentación con Swagger, garantizando la calidad del código y una alineación sólida con los objetivos de cada proyecto.",
+      "description": [
+        "Desarrollé y optimicé soluciones web y APIs.",
+        "Creé interfaces intuitivas y escalables, asegurando una integración eficiente entre el frontend y el backend.",
+        "Implementé pruebas unitarias y documentación con Swagger, garantizando la calidad del código y una fuerte alineación con los objetivos del proyecto."
+      ],
       "technologies": ["Node.js", "Express.js", "Sequelize.js", "Swagger", "Jest", "Vue.js", "Tailwind", "MySQL"],
       "achievements": []
     }

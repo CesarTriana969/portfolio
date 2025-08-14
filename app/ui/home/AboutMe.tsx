@@ -33,18 +33,18 @@ export default function AboutMe() {
             <h3 className="text-2xl font-semibold">Hola, soy Cesar Triana</h3>
             <Button asChild size="lg">
               <a 
-                href="/docs/cv_cesar_triana.pdf" 
-                download="cv_cesar_triana.pdf" 
+                href="/docs/cv_cesar_triana_es.pdf" 
+                download="cv_cesar_triana_es.pdf" 
               >
                 Descargar CV
               </a>
             </Button>
           </div>
           <p className="text-muted-foreground">
-            Soy desarrollador de software con más de dos años de experiencia en aplicaciones web y móviles. Me especializo en crear soluciones eficientes, escalables y fáciles de mantener, garantizando una experiencia de usuario fluida y responsiva. Convierto ideas y diseños en productos funcionales, priorizando velocidad y adaptabilidad, siempre aplicando las mejores prácticas en desarrollo.
+Soy desarrollador con más de dos años de experiencia en la creación de aplicaciones web y móviles. Me especializo en desarrollar soluciones eficientes, escalables y mantenibles, asegurando un alto rendimiento y una experiencia de usuario excepcional. Mi experiencia abarca tanto el desarrollo frontend como backend, incluyendo diseño de APIs, gestión de bases de datos y administración de servidores. Transformo ideas y diseños en productos funcionales y de alta calidad, priorizando la velocidad, la adaptabilidad y las mejores prácticas de desarrollo.
           </p>
           <div className="flex flex-wrap gap-2">
-            {["Vue", "Laravel", "React", "React Native", "TypeScript", "Tailwind", "Git", "Github", "MySQL", "Trabajo en equipo", "Capacidad de autogestión", "Comunicación verbal", "Atención al detalle", "Adaptabilidad y aprendizaje rápido"].map((skill) => (
+            {["Vue", "Nuxt", "Laravel", "React", "React Native", "TypeScript", "Tailwind", "Shopify", "Git", "Github", "MySQL", "Trabajo en equipo", "Capacidad de autogestión", "Comunicación verbal", "Atención al detalle", "Adaptabilidad y aprendizaje rápido"].map((skill) => (
               <Badge key={skill} variant="secondary">{skill}</Badge>
             ))}
           </div>

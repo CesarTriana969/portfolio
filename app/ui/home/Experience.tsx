@@ -48,7 +48,14 @@ export default function Experience() {
                       </div>
                       <Badge variant="outline">{job.period}</Badge>
                     </div>
-                    <p className="text-muted-foreground mb-4">{job.description}</p>
+                    <ul className="list-disc pl-5 text-muted-foreground mb-4 space-y-2">
+                      {Array.isArray(job.description) ? (
+                        job.description.map((item, i) => <li key={i}>{item}</li>)
+                      ) : (
+                        <li>{job.description}</li>
+                      )}
+                    </ul>
+
                     <div className="flex flex-wrap gap-2">
                       {job.technologies.map((tech) => (
                         <Badge key={tech} variant="secondary">{tech}</Badge>
