@@ -9,14 +9,13 @@ export default function Hero() {
       <div className="container relative z-10 mx-auto px-4 py-32 text-center">
         <h1 className="animate-fade-up text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight">
           Desarrollador Frontend
-          <span className="text-primary block mt-2">Construyamos una historia juntos</span>
         </h1>
-        <p className="mt-6 text-lg text-muted-foreground max-w-3xl mx-auto">
-          Especialista en el desarrollo de soluciones intuitivas, escalables y optimizadas para cualquier dispositivo.
+        <p className="mt-6 text-lg text-muted-foreground max-w-3xl mx-auto italic">
+          Todo es posible. Solo necesitas documentarte un poco más y los recursos necesarios.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <Button asChild size="lg">
-            <Link href="#contact">Contáctame</Link>
+            <Link href="#contact">Contacto</Link>
           </Button>
           <Button asChild size="lg" variant="outline">
             <Link href="#projects">Ver Proyectos</Link>

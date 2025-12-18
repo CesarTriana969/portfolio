@@ -6,15 +6,11 @@
       "position": "Front End & Web Developer",
       "period": "01/01/2025 - Present",
       "description": [
-        "Desarrollo y mantengo soluciones web en Shopify utilizando Liquid para personalizar y optimizar tiendas en línea.",
-        "Gestiono elementos del sitio, incluyendo ofertas de cantidad, upsells, duplicación de páginas de producto e integraciones con aplicaciones de Shopify.",
-        "Implemento y optimizo embudos alternativos con Typebot y otras plataformas.",
-        "Colaboro con el equipo de marketing para entregar landing pages y embudos a tiempo, y brindo soporte al área comercial con implementaciones web.",
-        "Realizo análisis de métricas y creo reportes en Excel, Looker Studio y herramientas similares.",
-        "Proporciono soluciones en backend, bases de datos, Docker y PHP dentro del alcance técnico, y ofrezco soporte para flujos de WhatsApp API.",
-        "Garantizo un desarrollo front-end escalable, responsivo y de alto rendimiento, alineado con los objetivos de la empresa."
+        "Desarrollo soluciones personalizadas en tiendas bajo el entorno de Shopify basándome en diseños de Figma, Adobe XD, Illustrator e ideas propuestas en equipo, priorizando el performance y la escalabilidad de cada proyecto.",
+        "Desarrollé un sistema de gestión de órdenes en Nuxt3, el cual permite actualizar, filtrar y gestionar órdenes de forma centralizada.",
+        "Desarrollé un servicio de traslados de productos entre tiendas Shopify que automatizó un proceso antes completamente manual, reduciendo significativamente los tiempos de ejecución."
       ],
-      "technologies": ["Shopify", "Nuxt", "Tailwind"],
+      "technologies": ["Shopify", "Nuxt", "Tailwind", "Python"],
       "achievements": []
     },
     {
@@ -23,11 +19,9 @@
       "position": "Software Developer (Part-time)",
       "period": "01/01/2025 - Present",
       "description": [
-        "Desarrollo y mantengo soluciones tanto de frontend como de backend, abarcando todo el ciclo de vida de las aplicaciones.",
-        "Diseño e implemento APIs, administro bases de datos y mantengo los servidores de la empresa.",
-        "Configuro y gestiono sistemas de envío de correos, pasarelas de pago (como PayPal) y otros servicios backend.",
-        "Optimizo el rendimiento, la seguridad y la escalabilidad de los sistemas en entornos productivos.",
-        "Continúo brindando soporte y mejoras al código frontend existente para garantizar su integración fluida con los servicios backend."
+        "Lidero la migración y actualización del sitio web de la empresa el cual se ha construido bajo el entorno de laravel y Vue 3 para el frontend. También me encargo del mantenimiento de las aplicaciones y servicios existentes en la empresa.",
+        "Desarrollo interfaces, creo componentes reutilizables priorizando la escalabilidad de los proyectos.",
+        "Desarrollo y mantengo servicios, administro bases de datos y todo lo relacionado con los servidores. He respondido a ataques de seguridad, configuro sistemas de correos, generación de documentos, y resuelvo problemas operacionales que surjan."
       ],
       "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
       "achievements": []
@@ -38,10 +32,9 @@
       "position": "Front End Developer",
       "period": "01/05/2023 - 31/12/2024",
       "description": [
-        "Desarrollé y optimicé aplicaciones web y móviles utilizando Laravel, Vue.js y React Native.",
-        "Implementé y mejoré interfaces de usuario para garantizar escalabilidad, velocidad y capacidad de respuesta.",
-        "Convertí diseños en experiencias funcionales e implementé integraciones eficientes con APIs y servicios backend.",
-        "Colaboré con equipos multidisciplinarios para alinear las soluciones tecnológicas con las necesidades del cliente y las mejores prácticas de desarrollo."
+        "Desarrollé interfaces basándome en diseños de Figma, Adobe XD, Illustrator e ideas propuestas en equipo.",
+        "Refactoricé funcionalidades buscando la escalabilidad, escribir código fácil de entender y mantener por otros desarrolladores.",
+        "Desarrollé y realicé tareas de mantenimiento en aplicaciones web y móvil, como también su respectivo despliegue."
       ],
       "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
       "achievements": []
@@ -50,13 +43,12 @@
       "id": 3,
       "company": "FREELANCE",
       "position": "Full-stack Developer",
-      "period": "01/11/2021 - 01/05/2023",
+      "period": "01/12/2021 - 01/05/2023",
       "description": [
-        "Desarrollé y optimicé soluciones web y APIs.",
         "Creé interfaces intuitivas y escalables, asegurando una integración eficiente entre el frontend y el backend.",
-        "Implementé pruebas unitarias y documentación con Swagger, garantizando la calidad del código y una fuerte alineación con los objetivos del proyecto."
+        "Implementé pruebas unitarias y documentación con Swagger, garantizando la calidad del código y la alineación con los objetivos del proyecto."
       ],
-      "technologies": ["Node.js", "Express.js", "Sequelize.js", "Swagger", "Jest", "Vue.js", "Tailwind", "MySQL"],
+      "technologies": ["Node.js", "Express.js", "Sequelize.js", "Swagger", "Jest", "Vue.js", "Tailwind", "Laravel", "MySQL"],
       "achievements": []
     }
   ]
