@@ -6,9 +6,7 @@
       "position": "Front End & Web Developer",
       "period": "01/01/2025 - Present",
       "description": [
-        "Desarrollo soluciones personalizadas en tiendas bajo el entorno de Shopify basándome en diseños de Figma, Adobe XD, Illustrator e ideas propuestas en equipo, priorizando el performance y la escalabilidad de cada proyecto.",
-        "Desarrollé un sistema de gestión de órdenes en Nuxt3, el cual permite actualizar, filtrar y gestionar órdenes de forma centralizada.",
-        "Desarrollé un servicio de traslados de productos entre tiendas Shopify que automatizó un proceso antes completamente manual, reduciendo significativamente los tiempos de ejecución."
+        "Desarrollo soluciones personalizadas en Shopify priorizando performance y escalabilidad. Desarrollé un sistema de gestión de órdenes en Nuxt3 que centraliza su información. Desarrollé un servicio que eliminó procesos manuales de traslados de productos entre tiendas, reduciendo significativamente tiempos de ejecución."
       ],
       "technologies": ["Shopify", "Nuxt", "Tailwind", "Python"],
       "achievements": []
@@ -19,9 +17,7 @@
       "position": "Software Developer (Part-time)",
       "period": "01/01/2025 - Present",
       "description": [
-        "Lidero la migración y actualización del sitio web de la empresa el cual se ha construido bajo el entorno de laravel y Vue 3 para el frontend. También me encargo del mantenimiento de las aplicaciones y servicios existentes en la empresa.",
-        "Desarrollo interfaces, creo componentes reutilizables priorizando la escalabilidad de los proyectos.",
-        "Desarrollo y mantengo servicios, administro bases de datos y todo lo relacionado con los servidores. He respondido a ataques de seguridad, configuro sistemas de correos, generación de documentos, y resuelvo problemas operacionales que surjan."
+        "Lidero la migración y modernización del sitio web de la empresa. Me encargo del mantenimiento de aplicaciones y servicios. Desarrollo interfaces intuitivas y componentes reutilizables pensando siempre en la escalabilidad. Administro bases de datos, configuración de servidores. He respondido a incidentes de seguridad y resuelvo problemas operacionales que surjan día a día."
       ],
       "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
       "achievements": []
@@ -32,9 +28,7 @@
       "position": "Front End Developer",
       "period": "01/05/2023 - 31/12/2024",
       "description": [
-        "Desarrollé interfaces basándome en diseños de Figma, Adobe XD, Illustrator e ideas propuestas en equipo.",
-        "Refactoricé funcionalidades buscando la escalabilidad, escribir código fácil de entender y mantener por otros desarrolladores.",
-        "Desarrollé y realicé tareas de mantenimiento en aplicaciones web y móvil, como también su respectivo despliegue."
+        "Transformé diseños de Figma y Adobe XD en interfaces funcionales. Refactoricé código buscando escalabilidad y facilitar el trabajo de otros desarrolladores. Desarrollé, mantuve y desplegué aplicaciones web y móvil."
       ],
       "technologies": ["Laravel", "Vue.js", "React Native", "Tailwind", "MySQL"],
       "achievements": []
