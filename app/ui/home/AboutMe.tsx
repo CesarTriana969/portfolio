@@ -43,11 +43,7 @@ export default function AboutMe() {
 
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                A mis 20 años vi una palabra mágica en un aeropuerto: "Desarrollo de Software". Investigué, practiqué obsesivamente y aquí estoy.
-              </p>
-
-              <p>
-                Me especializo en crear soluciones que funcionan y perduran. No es solo sobre código limpio o arquitectura escalable (aunque eso importa). Es sobre entender que cada funcionalidad complicada, cada API, cada deploy en producción es un reto interesante que vale la pena resolver bien.
+                Hola me especializo en Desarrollo Frontend. No es solo sobre código limpio o arquitectura escalable (aunque eso importa). Es sobre entender que cada funcionalidad complicada, cada API, cada deploy en producción es un reto interesante que vale la pena resolver bien.
               </p>
 
               <div>
@@ -55,7 +51,7 @@ export default function AboutMe() {
                 <ul className="space-y-1 ml-4">
                   <li>Obsesión por resolver problemas complejos</li>
                   <li>Pasión genuina por aprender constantemente</li>
-                  <li>Confianza ganada con experiencia real</li>
+                  <li>Confianza adquirida por la experiencia</li>
                   <li>Curiosidad de entender cómo otros escriben código</li>
                 </ul>
               </div>
@@ -63,7 +59,7 @@ export default function AboutMe() {
               <div>
                 <p className="font-semibold text-foreground mb-2">Lo que me equilibra:</p>
                 <p>
-                  Meditación, lectura, música (rock, rap, vallenato), videojuegos, tiempo con mis seres queridos. Porque un desarrollador creativo necesita vivir un poco.
+                  Meditación, lectura, música (rock, rap, vallenato), videojuegos, tiempo con mis seres queridos. 
                 </p>
               </div>
 
